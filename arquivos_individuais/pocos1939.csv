@@ -1,0 +1,5 @@
+Código Poço,Bacia,Bloco,Campo,Operador,Terra / Mar,Nome Poço ANP,Nome Poço Operador,Data Início Perfuração,Data Término Perfuração,Data Conclusão Poço,Latitude Base Provisória,Longitude Base Provisória,Latitude Base Definitiva,Longitude Base Definitiva,Latitude Fundo,Longitude Fundo,Profundidade Sondador,Profundidade Medida,Profundidade Vertical,Cota Altimétrica,Lâmina D Água,Mesa Rotativa,Nome Sonda
+081150000100,Alagoas,Brasil,,,TERRA,2-AL-1-AL,2AL 0001 AL,01/11/1939,29/07/1940,29/07/1940,"-09:39:52,389","-35:41:44,049","-09:39:52,389","-35:41:44,049",,,,2143,2143,,,7,SONDA CONVENCIONAL 4
+202400000200,Recôncavo,,LOBATO,,TERRA,1-L-1-BA,1L 0001 BA,30/09/1939,20/11/1940,20/11/1940,"-12:54:39,180","-38:29:44,242","-12:54:39,180","-38:29:44,242",,,452.6,452.6,452.6,0,0,5,
+202400000300,Recôncavo,,LOBATO,,TERRA,1-L-2-BA,1L 0002 BA,28/10/1939,19/03/1940,19/03/1940,"-12:55:48,949","-38:30:40,021","-12:55:48,949","-38:30:40,021",,,1759.9,1759.9,1759.9,0,0,12,
+202400000400,Recôncavo,,LOBATO,,TERRA,1-L-3-BA,1L 0003 BA,16/11/1939,23/12/1939,23/12/1939,"-12:54:54,228","-38:28:57,585","-12:54:54,228","-38:28:57,585",,,392.3,392.3,392.3,0,0,12.6,SONDA CONVENCIONAL 2
