@@ -2,7 +2,6 @@ import glob
 import os
 from datetime import datetime
 from time import sleep
-
 import pandas as pd
 import randomheaders
 import requests

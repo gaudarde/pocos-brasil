@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: latin-1 -*-
 
-import dados
 import download
+import dados
 
 if __name__ == '__main__':
 
