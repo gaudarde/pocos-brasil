@@ -27,7 +27,7 @@ def dados():
             'Data Término Perfuração',
             'Data Conclusão Poço'],
         index_col='Código Poço',
-        error_bad_lines=False
+        on_bad_lines='warn'
     )
 
     df['Data Início Perfuração'] = pd.to_datetime(df['Data Início Perfuração'],
